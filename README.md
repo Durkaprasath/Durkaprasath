@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Durkaprasath
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Big Data
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning Fundamentalss of Data.
 - 📫 How to reach me @durkaprasath.sekar@gmail.com
 
 <!---
