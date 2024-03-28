@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Durkaprasath
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Fundamentalss of Data.
+- 👋 Hi, I’m @Durkaprasath Sekar
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Fundamentals of Data.
 - 📫 How to reach me @durkaprasath.sekar@gmail.com
 
 <!---
