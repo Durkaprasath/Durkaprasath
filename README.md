@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Durkaprasath Sekar
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Fundamentals of Data.
-- 📫 How to reach me @durkaprasath.sekar@gmail.com
+                                                                     Hi 👋, I'm Durkaprasath
+                                                           
+                                                                 A passionate Data Analyst from India
+   
+   I am passionate about learning new technologies and applying them to real-world scenarios.  I am confident in my ability to make a significant impact in any data-driven role. I am excited to leverage my skills and experience to help organizations achieve their goals and maximize their potential.
 
-<!---
-Durkaprasath/Durkaprasath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* ✉️  You can contact me at Kiranpatil7022@gmail.com
+* 🤝  I'm open to collaborating on Projects
